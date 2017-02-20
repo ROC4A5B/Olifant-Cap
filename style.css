@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+}
+
+input {
+    
+}
+
+.registratie {
+	width: 500px;
+	margin-left: 50px;
+	border:2px solid black;
+
+}
+
+.elements{
+	padding:10px;
+	border-radius:10px;
+	color:black;
+	font-size:15px;
+}
+
+label{
+	width:10em;
+	float:left;
+	margin-right:0px;
+	font-size:16px;
+}
+
+.butt{
+    font-size:16px ;
+    
+}
